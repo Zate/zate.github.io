@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Zate - Blog</title>
-    <link>/posts/</link>
+    <link>https://blog.zate.org/posts/</link>
     <description>Recent content in Posts on Zate - Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 05 Mar 2018 08:40:00 -0600</lastBuildDate>
     
-	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.zate.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello World</title>
-      <link>/posts/hello-world/</link>
+      <link>https://blog.zate.org/posts/hello-world/</link>
       <pubDate>Mon, 05 Mar 2018 08:40:00 -0600</pubDate>
       
-      <guid>/posts/hello-world/</guid>
+      <guid>https://blog.zate.org/posts/hello-world/</guid>
       <description>Hello World</description>
     </item>
     
