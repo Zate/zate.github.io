@@ -6,6 +6,7 @@
     <description>Recent content in Posts on Things and Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Code released under the Apache 2.0 license.</copyright>
     <lastBuildDate>Mon, 05 Mar 2018 08:40:00 -0600</lastBuildDate>
     
 	<atom:link href="https://blog.zate.org/posts/index.xml" rel="self" type="application/rss+xml" />
