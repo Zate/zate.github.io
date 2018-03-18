@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zate</title>
+    <title>Things and Stuff</title>
     <link>https://blog.zate.org/</link>
-    <description>Recent content on Zate</description>
+    <description>Recent content on Things and Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 05 Mar 2018 08:40:00 -0600</lastBuildDate>
