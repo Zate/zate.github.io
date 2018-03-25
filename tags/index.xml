@@ -1,14 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Zate - Blog</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on Zate - Blog</description>
+    <title>Tags on Things and Stuff</title>
+    <link>https://blog.zate.org/tags/</link>
+    <description>Recent content in Tags on Things and Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Code released under the Apache 2.0 license.</copyright>
+    <lastBuildDate>Mon, 05 Mar 2018 08:40:00 -0600</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.zate.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blog</title>
+      <link>https://blog.zate.org/tags/blog/</link>
+      <pubDate>Mon, 05 Mar 2018 08:40:00 -0600</pubDate>
+      
+      <guid>https://blog.zate.org/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example</title>
+      <link>https://blog.zate.org/tags/example/</link>
+      <pubDate>Mon, 05 Mar 2018 08:40:00 -0600</pubDate>
+      
+      <guid>https://blog.zate.org/tags/example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://blog.zate.org/tags/hugo/</link>
+      <pubDate>Mon, 05 Mar 2018 08:40:00 -0600</pubDate>
+      
+      <guid>https://blog.zate.org/tags/hugo/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

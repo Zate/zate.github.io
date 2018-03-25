@@ -1,22 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zate - Blog</title>
-    <link>/</link>
-    <description>Recent content on Zate - Blog</description>
+    <title>Things and Stuff</title>
+    <link>https://blog.zate.org/</link>
+    <description>Recent content on Things and Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Mar 2018 08:40:00 -0600</lastBuildDate>
+    <copyright>Code released under the Apache 2.0 license.</copyright>
+    <lastBuildDate>Sun, 25 Mar 2018 15:58:41 -0500</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.zate.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Testing Out Hugo</title>
+      <link>https://blog.zate.org/posts/testing-out-hugo/</link>
+      <pubDate>Sun, 25 Mar 2018 15:58:41 -0500</pubDate>
+      
+      <guid>https://blog.zate.org/posts/testing-out-hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Hello World</title>
-      <link>/posts/hello-world/</link>
+      <link>https://blog.zate.org/posts/hello-world/</link>
       <pubDate>Mon, 05 Mar 2018 08:40:00 -0600</pubDate>
       
-      <guid>/posts/hello-world/</guid>
+      <guid>https://blog.zate.org/posts/hello-world/</guid>
       <description>Hello World</description>
     </item>
     
