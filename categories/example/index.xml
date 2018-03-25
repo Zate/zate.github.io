@@ -14,10 +14,10 @@
     
     <item>
       <title>Testing Out Hugo</title>
-      <link>https://blog.zate.org/posts/testing-out-hugo/</link>
+      <link>https://blog.zate.org/post/testing-out-hugo/</link>
       <pubDate>Sun, 25 Mar 2018 15:58:41 -0500</pubDate>
       
-      <guid>https://blog.zate.org/posts/testing-out-hugo/</guid>
+      <guid>https://blog.zate.org/post/testing-out-hugo/</guid>
       <description>#Testing out markdown in Hugo
 Test
 Does this work?</description>
@@ -25,10 +25,10 @@ Does this work?</description>
     
     <item>
       <title>Hello World</title>
-      <link>https://blog.zate.org/posts/hello-world/</link>
+      <link>https://blog.zate.org/post/hello-world/</link>
       <pubDate>Mon, 05 Mar 2018 08:40:00 -0600</pubDate>
       
-      <guid>https://blog.zate.org/posts/hello-world/</guid>
+      <guid>https://blog.zate.org/post/hello-world/</guid>
       <description>Hello World</description>
     </item>
     
