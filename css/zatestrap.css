@@ -3,3 +3,17 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
+
+div.gradient {
+    background: rgba(0,0,0,0.5);
+    background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: rgba(0, 0, 0, 0.5);
+}
