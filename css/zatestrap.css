@@ -2,29 +2,24 @@ body{
     background-image: url("/img/07dark.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
+    background-size: contain;
     
 }
 
 .gradient {
-    background: rgba(0,0,0,0.5);
-    background-position-x: initial;
-    background-position-y: initial;
-    background-size: initial;
-    background-repeat-x: initial;
-    background-repeat-y: initial;
-    background-origin: initial;
-    background-clip: initial;
-    background-color: rgba(0, 0, 0, 0.5);
+    background: rgba(0,0,0,0.7);
+    background-size: contain;
+    background-color: rgba(0, 0, 0, 0.7);
     
     
-    max-width: 600px;
+    max-width: 1020px;
     margin: auto;
-    border: 3px solid #73AD21;
+    border: 1px solid #fff;
 
 
 }
 
 .intro-header .site-heading,.intro-header .post-heading,.intro-header .page-heading {
-    padding: 50px 0 50px;
+    padding: 100px 0 50px;
     color: #fff;
 }
