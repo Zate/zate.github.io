@@ -2,6 +2,10 @@ body{
     background-image: url("/img/07dark.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
+    
+}
+
+div.container.gradient {
     background: rgba(0,0,0,0.5);
     background-position-x: initial;
     background-position-y: initial;
@@ -11,10 +15,6 @@ body{
     background-origin: initial;
     background-clip: initial;
     background-color: rgba(0, 0, 0, 0.5);
-}
-
-div.container.gradient {
-    
     
     
     max-width: 500px;
