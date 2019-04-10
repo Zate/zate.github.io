@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Example on Things and Stuff</title>
+    <title>example on Things and Stuff</title>
     <link>https://blog.zate.org/categories/example/</link>
-    <description>Recent content in Example on Things and Stuff</description>
+    <description>Recent content in example on Things and Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Code released under the Apache 2.0 license.</copyright>

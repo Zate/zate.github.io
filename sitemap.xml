@@ -3,23 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://blog.zate.org/post/testing-out-hugo/</loc>
-    <lastmod>2018-03-25T15:58:41-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.zate.org/post/hello-world/</loc>
-    <lastmod>2018-03-05T08:40:00-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.zate.org/tags/blog/</loc>
+    <loc>https://blog.zate.org/categories/</loc>
     <lastmod>2018-03-25T15:58:41-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.zate.org/categories/</loc>
+    <loc>https://blog.zate.org/post/</loc>
+    <lastmod>2018-03-25T15:58:41-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.zate.org/tags/</loc>
+    <lastmod>2018-03-25T15:58:41-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.zate.org/post/testing-out-hugo/</loc>
+    <lastmod>2018-03-25T15:58:41-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.zate.org/</loc>
+    <lastmod>2018-03-25T15:58:41-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.zate.org/tags/blog/</loc>
+    <lastmod>2018-03-25T15:58:41-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -48,21 +62,8 @@
   </url>
   
   <url>
-    <loc>https://blog.zate.org/post/</loc>
-    <lastmod>2018-03-25T15:58:41-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.zate.org/tags/</loc>
-    <lastmod>2018-03-25T15:58:41-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.zate.org/</loc>
-    <lastmod>2018-03-25T15:58:41-05:00</lastmod>
-    <priority>0</priority>
+    <loc>https://blog.zate.org/post/hello-world/</loc>
+    <lastmod>2018-03-05T08:40:00-06:00</lastmod>
   </url>
   
 </urlset>
